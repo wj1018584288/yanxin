@@ -21,5 +21,6 @@
      printf ("asdasda");
 
      printf ("123123132");
+     printf ("123123132");
      return 0;
  }
