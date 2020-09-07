@@ -19,9 +19,11 @@
 
 
      printf ("asdasda");
+     printf ("asdasda");
 
      printf ("123123132");
      printf ("123123132");
      printf ("123123132");
+     printf ("yyyy");
      return 0;
  }
